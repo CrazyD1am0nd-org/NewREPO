@@ -1,6 +1,0 @@
-Hey Hey, this is a test and nothing in this page is sensitive.
-
-ENV["AWS_ACCESS_KEY_ID"]="AKIAJOEA2PMQHX7PKSQA"
-ENV["AWS_SECRET_ACCESS_KEY"]="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"
-
-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
